@@ -6,7 +6,7 @@ function jainRainOauth(req, res) {
     var options = {
         url: 'https://rpxnow.com/api/v2/auth_info',
         form: {
-            apiKey: 'bfc704afbd3c19e24e51b94e70ea9cf57556ffdc',
+            apiKey: '',
             token: token
         }
     };
